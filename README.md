@@ -65,32 +65,32 @@ Master–Master
 ### Ответ
 
 
-`master'
-![1](./img/master 1.png)
+
+![master](./img/master_1.png)
 
 `master'
-![1](./img/master 2.png)
+![1](./img/master_2.png)
 
 `master'
-![1](./img/master 3.png)
+![1](./img/master_3.png)
 
 `master'
-![1](./img/master 4.png)
+![1](./img/master_4.png)
 
 `master'
-![1](./img/master 5.png)
+![1](./img/master_5.png)
 
 `slave'
-![1](./img/slave 1.png)
+![1](./img/slave_1.png)
 
 `slave'
-![1](./img/slave 2.png)
+![1](./img/slave_2.png)
 
 `slave'
-![1](./img/slave 3.png)
+![1](./img/slave_3.png)
 
 `slave'
-![1](./img/slave 4.png)
+![1](./img/slave_4.png)
 
 ---
 
